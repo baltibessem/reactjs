@@ -1,0 +1,29 @@
+
+
+.login-form{
+text-align: center;
+max-width: 400px;
+padding: 15px;
+margin:auto;
+color:black ;
+width: 100%;
+height: 100%;
+}
+
+.form-group{
+    text-align: left;
+    color: black;
+    margin-top: 30px;
+    padding: 50px;
+}
+
+#btn-login {
+    margin-top: 30px;
+    width: 270px;
+}
+
+#txt {
+    margin-top: 50px;
+    text-align: center;
+    color: blue;
+}
